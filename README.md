@@ -151,6 +151,10 @@ Aqui temos um problema, não consegui fazer o script encerrar de maneira correta
 
 ---
 
+## Melhorias
+- [ ] Opção com captcha não funciona por causa do Cloudflare, criar uma solução para esse problema.
+
+
 ## 📝 Contribuições
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
