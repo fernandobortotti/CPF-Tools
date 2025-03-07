@@ -95,13 +95,13 @@ Recomenda-se criar um ambiente virtual para isolar as dependências do projeto e
    - **Rodando sem CAPTCHA:**
 
      ```bash
-     python bot.py cpfvalido.txt
+     python bot_buscador_cpf.py cpfvalido.txt
      ```
 
    - **Rodando com CAPTCHA:**
 
      ```bash
-     python bot.py cpfvalido.txt --captcha
+     python bot_buscador_cpf.py cpfvalido.txt --captcha
      ```
 
 2. **Como Funciona:**
